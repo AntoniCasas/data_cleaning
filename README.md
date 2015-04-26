@@ -1,8 +1,10 @@
-Human Activity Recognition Using Smartphones Dataset
-====================================================
+#Human Activity Recognition Using Smartphones Dataset
 
-Steps used
-----------
+This file describes high level the different steps performed by the script "run_analysis.R". In order to see how the different steps were executed and the functions used, please refer to the script file itself as I commented it with detail enough.
+
+
+##Steps used
+
 
 In section A of the script we merged the 3 train and test data set files into a single data set after loading the data into 6 data frames. We renamed the V1 columns from "subject_test" and "y_test", as well as "subject_train" and "y_train" so we could know later what they referred to.
 
