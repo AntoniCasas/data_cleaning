@@ -1,8 +1,3 @@
----
-title: "codebook"
-output: html_document
----
-
 The data set returned after executing the script has 4 variables: subject (id for each of the subjects who participated in the study), activity (description of the 6 possible activities recorded), variable and mean of each variable.
 
 The different variables are:
